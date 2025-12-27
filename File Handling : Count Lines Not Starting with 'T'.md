@@ -18,7 +18,7 @@ count=0
 
 for lines in file: 
 
-   if lines [0] not in 'T': 
+    if lines [0] not in 'T': 
    
       count+=1 
       
